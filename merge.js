@@ -1,1 +1,2 @@
-console.log("CONFLICT 2");
+console.log("CONFLICT 1");
+
